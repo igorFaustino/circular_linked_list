@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1475709444 source:/home/igor/programacao/list/circular_linked_list/circular_linked_list/main.cpp
+	<iostream>
+	"circular_list.h"
+
+1475709155 source:/home/igor/programacao/list/circular_linked_list/circular_linked_list/src/circular_list.cpp
+	"circular_list.h"
+
+1475707238 /home/igor/programacao/list/circular_linked_list/circular_linked_list/include/circular_list.h
+	<iostream>
+	<string>
+
